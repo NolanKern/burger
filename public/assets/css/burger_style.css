@@ -1,0 +1,32 @@
+* {
+
+	background-color: orange;
+}
+
+#devour,
+{
+	float: right;
+	
+}
+
+#new {
+	float: right;
+	padding-right: 100px;
+
+}
+
+#add{
+	text-align:center;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+#Burger_img{
+    width:400px;
+    height:350px; 
+    display: block; 
+    margin: auto
+}
